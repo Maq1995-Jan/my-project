@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maq1995-Jan/typescript-package-starter.git"
+    "url": "git+https://npm.pkg.github.com/maq1995-jan/typescript_package_starter.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.22",
@@ -36,6 +36,6 @@
     "node": ">=8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Maq1995-Jan/typescript-package-starter.git"
+    "registry": "https://npm.pkg.github.com/maq1995-jan/typescript_package_starter.git"
   }
 }
